@@ -196,9 +196,9 @@ FakesAssemblies/
 *.opt
 
 # Custom
-/src/Sp.AvSec.WebSpaAngular/Logs
-/src/Sp.AvSec.WebSpaAngular/App_Data/Logs/
-/src/.idea/
-/src/Sp.AvSec.Mvc/Logs
-/src/Sp.AvSec.Mvc/App_Data/Logs/
-/src/packages/
+/codes/Sp.AvSec.WebSpaAngular/Logs
+/codes/Sp.AvSec.WebSpaAngular/App_Data/Logs/
+/codes/.idea/
+/codes/Sp.AvSec.Mvc/Logs
+/codes/Sp.AvSec.Mvc/App_Data/Logs/
+/codes/packages/
